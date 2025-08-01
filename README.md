@@ -1,6 +1,14 @@
 # Sigma Web Dev - HTML Projects
 
-This repository contains all the HTML projects and practice exercises I completed while learning the HTML section of the **Sigma Web Development Course** by [CodeWithHarry](https://www.codewithharry.com/).
+🚀 Hands-on HTML projects from the Sigma Web Development course by CodeWithHarry.  
+🔗 **Project Repository**: [GitHub - HTML Projects](https://github.com/GitWithArindam/HTML)
+
+![Status](https://img.shields.io/badge/learning-active-brightgreen)
+![HTML](https://img.shields.io/badge/html-100%25-orange)
+
+---
+
+This repository contains all the HTML projects and practice exercises I completed while learning the HTML section of the Sigma Web Development Course by CodeWithHarry.
 
 These hands-on projects helped me build a solid foundation in HTML, covering everything from basic tags to semantic structure, forms, media elements, and more.
 
@@ -8,19 +16,19 @@ These hands-on projects helped me build a solid foundation in HTML, covering eve
 
 ## 📚 Course Progress – HTML Section
 
-| Day    | Topics Covered              | Folder Name      |
-|--------|-----------------------------|------------------|
-| Day 01 | First HTML Website          | HTML Day 01      |
-| Day 02 | Headings, Paragraphs        | HTML Day 02      | 
-| Day 03 | Image, Table, List          | HTML Day 03      | 
-| Day 04 | SEO, Core Web Vitals        | HTML Day 04      | 
-| Day 05 | Forms, Input Tags           | HTML Day 05      | 
-| Day 06 | Inline & Block Elements     | HTML Day 06      | 
-| Day 07 | ID & Classes                | HTML Day 07      | 
-| Day 08 | Video, Audio & Media        | HTML Day 08      | 
-| Day 09 | Semantic Tags               | HTML Day 09      |
-| Day 10 | Pure HTML Media Player      | HTML Day 10      |
-| Day 11 | Entities, Code Tag & More   | HTML Day 11      |
+| Day     | Topics Covered                   | Folder Name     |
+|---------|----------------------------------|-----------------|
+| Day 1   | First HTML Website               | HTML Day 1      |
+| Day 2   | Headings, Paragraphs             | HTML Day 2      |
+| Day 3   | Image, Table, List               | HTML Day 3      |
+| Day 4   | SEO, Core Web Vitals             | HTML Day 4      |
+| Day 5   | Forms, Input Tags                | HTML Day 5      |
+| Day 6   | Inline & Block Elements          | HTML Day 6      |
+| Day 7   | ID & Classes                     | HTML Day 7      |
+| Day 8   | Video, Audio & Media             | HTML Day 8      |
+| Day 9   | Semantic Tags                    | HTML Day 9      |
+| Day 10  | Pure HTML Media Player           | HTML Day 10     |
+| Day 11  | Entities, Code Tag & More        | HTML Day 11     |
 
 ---
 
@@ -37,8 +45,8 @@ These hands-on projects helped me build a solid foundation in HTML, covering eve
 
 ## 🛠 Technologies Used
 
-- HTML5  
-- VS Code  
+- HTML5
+- VS Code
 - Live Server Extension (for previewing)
 
 ---
