@@ -1,5 +1,3 @@
-# HTML
-Added detailed course progress table with topics covered from Day 1 to Day 11 of CodeWithHarry’s Sigma Web Dev (HTML) series. Includes folder names for each day’s practice projects.
 # Sigma Web Dev - HTML Projects
 
 This repository contains all the HTML projects and practice exercises I completed while learning the HTML section of the **Sigma Web Development Course** by [CodeWithHarry](https://www.codewithharry.com/).
@@ -23,3 +21,30 @@ These hands-on projects helped me build a solid foundation in HTML, covering eve
 | Day 09 | Semantic Tags               | HTML Day 09      |
 | Day 10 | Pure HTML Media Player      | HTML Day 10      |
 | Day 11 | Entities, Code Tag & More   | HTML Day 11      |
+
+---
+
+## 🧠 What I Learned
+
+- Structure of a valid HTML5 document
+- Headings, paragraphs, and formatting tags
+- Working with lists, tables, and images
+- Building forms and using various input types
+- Embedding video and audio
+- Using semantic HTML for better SEO and accessibility
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5  
+- VS Code  
+- Live Server Extension (for previewing)
+
+---
+
+## 🚀 How to Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
