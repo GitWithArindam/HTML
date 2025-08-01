@@ -3,9 +3,6 @@
 🚀 Hands-on HTML projects from the Sigma Web Development course by CodeWithHarry.  
 🔗 **Project Repository**: [GitHub - HTML Projects](https://github.com/GitWithArindam/HTML)
 
-![Status](https://img.shields.io/badge/learning-active-brightgreen)
-![HTML](https://img.shields.io/badge/html-100%25-orange)
-
 ---
 
 This repository contains all the HTML projects and practice exercises I completed while learning the HTML section of the Sigma Web Development Course by CodeWithHarry.
